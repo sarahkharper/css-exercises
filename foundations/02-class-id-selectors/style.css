@@ -1,0 +1,21 @@
+/* stylesheet for exercise 02 */
+
+.odd{
+    background-color: #ffb6c1;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif
+}
+
+.twofour{
+    font-size: 24px;
+}
+
+#deux{
+    font-size: 36px;
+    color: #0000FF;
+}
+
+
+#quatro{
+    background-color: #39e75f;
+    font-weight: 700;
+}
